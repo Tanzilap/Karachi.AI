@@ -6,7 +6,7 @@ Created on Sat Jan 28 15:45:03 2023
 """
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
+
 file = r'C:/Users/Administrator/Desktop/Python/Billionaire.csv'
 df = pd.read_csv('Billionaire.csv')
 
